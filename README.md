@@ -4,22 +4,22 @@
   <br>
 Technion EE 046202 - Unsupervised Learning and Data Analysis
   <br>
-  <img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" height="200"><img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" height="200">
+  <img src="https://github.com/lioritan/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" height="200"><img src="https://github.com/lioritan/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" height="200">
 </h1>
 
 <p align="center">
     <a href="https://taldatech.github.io">Tal Daniel</a> •
-	<a href="https://taldatech.github.io">Lior Friedman</a> •
-	<a href="https://taldatech.github.io">Dan Haramati</a> •
+	<a href="https://lioritan.github.io">Lior Friedman</a> •
+	<a href="https://DanHrmti.github.io">Dan Haramati</a> •
     <a href="https://ronmeir.net.technion.ac.il/">Ron Meir</a>
   </p>
 
 Jupyter Notebook tutorials for the Technion's EE 046202 course "Unsupervised Learning and Data Analysis"
 
 <h4 align="center">
-    <a href="https://colab.research.google.com/github/taldatech/ee046202-unsupervised-learning-data-analysis"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    <a href="https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
-    <a href="https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
+    <a href="https://colab.research.google.com/github/lioritan/ee046202-unsupervised-learning-data-analysis"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://nbviewer.jupyter.org/github/lioritan/ee046202-unsupervised-learning-data-analysis/tree/master/"><img src="https://raw.githubusercontent.com/lioritan/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
+    <a href="https://mybinder.org/v2/gh/lioritan/ee046202-unsupervised-learning-data-analysis/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
 
 </h4>
 
@@ -49,23 +49,23 @@ You can view the tutorials online or download and run locally.
 
 Jupyter Nbviewer:
 
-[![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/)
+[![nbviewer](https://raw.githubusercontent.com/lioritan/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/lioritan/ee046202-unsupervised-learning-data-analysis/tree/master/)
 
 
 Press on the "Open in Colab" button below to use Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taldatech/ee046202-unsupervised-learning-data-analysis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lioritan/ee046202-unsupervised-learning-data-analysis)
 
 Or press on the "launch binder" button below to launch in Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lioritan/ee046202-unsupervised-learning-data-analysis/master)
 
 Note: creating the Binder instance takes about ~5-10 minutes, so be patient
 
 ### Running Locally
 
 Press "Download ZIP" under the green button `Clone or download` or use `git` to clone the repository using the 
-following command: `git clone https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis.git` (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
+following command: `git clone https://github.com/lioritan/ee046202-unsupervised-learning-data-analysis.git` (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
 
 Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Installation instructions can be found in `Setting Up The Working Environment.pdf`.
 
